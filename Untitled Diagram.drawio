@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-08-23T20:51:36.617Z" agent="5.0 (iPad; CPU OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 EdgiOS/46.3.26 Mobile/15E148 Safari/605.1.15" etag="Z5qkcEz7THE635EuNP0T" version="14.9.5" type="github">
-  <diagram id="cjU1AzPTHBjTkXe3x_rI" name="Page-1">
-    <mxGraphModel dx="868" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2021-08-23T20:53:20.337Z" agent="5.0 (iPad; CPU OS 14_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/92.0.4515.90 Mobile/15E148 Safari/604.1" etag="fiMwVWuRbf2gzd-xnMb8" version="14.9.8" type="github">
+  <diagram id="cjU1AzPTHBjTkXe3x_rI" name="Main Diagram">
+    <mxGraphModel dx="1332" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="P-5oYFtJ6Uifzq_IMmJZ-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Synapse_Analytics.svg;" vertex="1" parent="1">
+        <mxCell id="P-5oYFtJ6Uifzq_IMmJZ-1" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Synapse_Analytics.svg;" parent="1" vertex="1">
           <mxGeometry x="410" y="260" width="60" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="P-5oYFtJ6Uifzq_IMmJZ-2" value="Synapse Workspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="P-5oYFtJ6Uifzq_IMmJZ-2" value="Synapse Workspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="375" y="340" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
